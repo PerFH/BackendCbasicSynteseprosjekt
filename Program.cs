@@ -1,10 +1,14 @@
+using System.Data;
 class Program()
 {
     static void Main(string[] args)
     {
-        Console.Clear();
         Console.WriteLine("Initiating boot sequence...");
-        Console.WriteLine("Retrieving orders...");
-
+    GetCommands commands = new GetCommands();
+    commands.readMission();
+    foreach (string command in commands.ReadCommands)
+        {
+            Console.WriteLine(command);
+        }
     }
 }

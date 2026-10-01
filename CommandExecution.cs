@@ -1,4 +1,5 @@
-﻿public class CommandExecution
+﻿/*
+public class CommandExecution
 {
     void executeCommand()
     {
@@ -27,4 +28,4 @@
 
     list CommandsToExecute
 
-}
+}*/

@@ -1,5 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 using System.Data;
+/*
 public class CommandValidation
 {
 
@@ -17,4 +18,11 @@ public class CommandValidation
     ellers, ignorer og send til logg som feilmelding
     return command;
     }
+    public class ValidatedCommand
+    {
+        public string commandType { get; set; }
+        public string commandDirection { get; set; }
+        public string commandStrength { get; set; }
+    }
 }
+*/

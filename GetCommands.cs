@@ -1,11 +1,14 @@
-public class GetCommands()
+using System.Security.Cryptography.X509Certificates;
+
+public class GetCommands
 {
-    private List<ReceivedCommand> receivedCommands = new List<ReceivedCommand>();
-    public IReadOnlyList<ReceivedCommand> ReceivedCommands
+    private List<string> readCommands = new List<string>();
+
+    public IReadOnlyList<string> ReadCommands
     {
         get
         {
-            return receivedCommands;
+            return readCommands;
         }
     }
     public bool fileExists
@@ -17,29 +20,41 @@ public class GetCommands()
     }
     private string getFile()
     {
-        return "mission.txt";
+        return "Mission.txt";
     }
-    public void populateMission()
+    public void readMission()
     {
-
         if (fileExists)
         {
             foreach (string line in File.ReadAllLines(getFile()))
             {
+                readCommands.Add(line);
+            }
+        }
+    }
+}
+
+
+/*
+foreach (string line in File.ReadAllLines(getFile()))
+            {
                 string[] details = line.Split(' ');
                 ReceivedCommand receivedCommand = new ReceivedCommand();
                 receivedCommand.commandType = details[0];
-                receivedCommand.commandStrength = int.Parse(details[1]);
-                receivedCommand.commandDirection = details[2];
-                receivedCommands.Add(receivedCommand);
+                if (details.Length > 1)
+                {
+                receivedCommand.commandDirection = details[1];
+                } 
+                if (details.Length > 2)
+                {
+                    
+                int number;
+                if (int.TryParse(details[2], out number))
+                {
+                    receivedCommand.commandStrength = number;
+                }
+                }
+                receivedCommands.Add(line);
+                Console.WriteLine($"{receivedCommand.commandType} {receivedCommand.commandStrength} {receivedCommand.commandDirection}");
             }
-        }
-
-    }
-    public class ReceivedCommand
-    {
-        public string commandType { get; set; }
-        public int commandStrength { get; set; }
-        public string commandDirection { get; set; }
-    }
-}
+*/
