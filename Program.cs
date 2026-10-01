@@ -1,14 +1,10 @@
-using System.Data;
-class Program()
+
+class Program
 {
     static void Main(string[] args)
     {
+        Controller controller = new Controller();
         Console.WriteLine("Initiating boot sequence...");
-    GetCommands commands = new GetCommands();
-    commands.readMission();
-    foreach (string command in commands.ReadCommands)
-        {
-            Console.WriteLine(command);
-        }
+        controller.startUp();
     }
 }

@@ -35,26 +35,3 @@ public class GetCommands
 }
 
 
-/*
-foreach (string line in File.ReadAllLines(getFile()))
-            {
-                string[] details = line.Split(' ');
-                ReceivedCommand receivedCommand = new ReceivedCommand();
-                receivedCommand.commandType = details[0];
-                if (details.Length > 1)
-                {
-                receivedCommand.commandDirection = details[1];
-                } 
-                if (details.Length > 2)
-                {
-                    
-                int number;
-                if (int.TryParse(details[2], out number))
-                {
-                    receivedCommand.commandStrength = number;
-                }
-                }
-                receivedCommands.Add(line);
-                Console.WriteLine($"{receivedCommand.commandType} {receivedCommand.commandStrength} {receivedCommand.commandDirection}");
-            }
-*/

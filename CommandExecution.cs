@@ -1,6 +1,7 @@
-﻿/*
-public class CommandExecution
-{
+﻿
+public class CommandExecution{}
+
+/*{
     void executeCommand()
     {
         hvis kommandoen er både gyldig og mulig å gjennomføre så gjennomfører den kommandoen, og sender til logg som info
