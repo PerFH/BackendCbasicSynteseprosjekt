@@ -4,10 +4,6 @@ using System.Security.Cryptography.X509Certificates;
 
 public class CommandValidation
 {
-    public void logging()
-    {
-
-    }
     public List<ValidatedCommand> validatedCommands = new List<ValidatedCommand>();
     string[] validParts =
     {"REPORT",

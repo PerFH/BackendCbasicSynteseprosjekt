@@ -3,17 +3,20 @@ using System.Transactions;
 
 public class PositionOrientation
 {
+    public int xCoords;
+    public int yCoords;
     public string currentDirection;
 
     public int xPosition(int xUpdate)
     {
-        int x =+ xUpdate;
-        return x;
+        
+        xCoords += xUpdate;
+        return xCoords;
     }
 
     public int yPosition(int yUpdate)
     {
-        int y =+ yUpdate;
-        return y;
+        yCoords += yUpdate;
+        return yCoords;
     }
 }

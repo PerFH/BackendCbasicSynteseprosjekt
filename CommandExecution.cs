@@ -10,29 +10,26 @@ public class CommandExecution
         //hvis kommandoen er både gyldig og mulig å gjennomføre så gjennomfører den kommandoen, og sender til logg som info
     }
 
-    string turnLeftCommand(string currentDirection)
+    void turnLeftCommand(string currentDirection)
     {
         if (positionOrientation.currentDirection == "NORTH")
         {
-            currentDirection = "WEST";
-            return currentDirection;
+            positionOrientation.currentDirection = "WEST";
         }
         else if (positionOrientation.currentDirection == "WEST")
         {
-            currentDirection = "SOUTH";
-            return currentDirection;
+            positionOrientation.currentDirection = "SOUTH";
         }
         else if (positionOrientation.currentDirection == "SOUTH")
         {
-            currentDirection = "EAST";
-            return currentDirection;
+            positionOrientation.currentDirection = "EAST";
+            
         }
-        else //(positionOrientation.currentDirection() == "EAST")
+        else 
         {
-            currentDirection = "NORTH";
-            return currentDirection;
+            positionOrientation.currentDirection = "NORTH";
+
         }
-    //else/if blokk som oppdaterer currentOrientation, basert på currentorientation, og left/right sving
     }
 
     void turnRightcommand(string currentDirection)
@@ -50,37 +47,33 @@ public class CommandExecution
             positionOrientation.currentDirection = "WEST";
 
         }
-        else //(positionOrientation.currentDirection() == "EAST")
+        else
         {
             positionOrientation.currentDirection = "SOUTH";
         }
     }
     void moveCommand()
-        {
+    {
         if (positionOrientation.currentDirection == "NORTH")
-        {
-            positionOrientation.xPosition(1);
-        }
-        if (positionOrientation.currentDirection == "WEST")
-        {
-            positionOrientation.yPosition(-1);
-        }
-        if (positionOrientation.currentDirection == "SOUTH")
-        {
-            positionOrientation.xPosition(-1);
-        }
-        if (positionOrientation.currentDirection == "EAST")
         {
             positionOrientation.yPosition(1);
         }
-    //else/if blokk som oppdaterer xy koordinater, basert på currentOrientation
-        }
-
-    void reportCommand(int xposition, int yposition, string currentDirection)
+        if (positionOrientation.currentDirection == "WEST")
         {
-        Console.WriteLine($"Current coordinates X: {xposition}, Y: {yposition} Facing: {currentDirection}");
-        //gir rapport om xy koordinater og orientering
+            positionOrientation.xPosition(-1);
+        }
+        if (positionOrientation.currentDirection == "SOUTH")
+        {
+            positionOrientation.yPosition(-1);
+        }
+        if (positionOrientation.currentDirection == "EAST")
+        {
+            positionOrientation.xPosition(1);
         }
     }
 
-    //list CommandsToExecute
+    void reportCommand(int xposition, int yposition, string currentDirection)
+    {
+        Console.WriteLine($"Current coordinates X: {xposition}, Y: {yposition} Facing: {currentDirection}");
+    }
+}
