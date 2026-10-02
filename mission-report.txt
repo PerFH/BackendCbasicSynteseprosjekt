@@ -1,0 +1,231 @@
+02.10.2026 10:20:16 Read line: MOVE STRAIGHT 3 from Mission.txt
+02.10.2026 10:20:16 Read line: TURN RIGHT 1 from Mission.txt
+02.10.2026 10:20:16 Read line: MOVE STRAIGHT 2 from Mission.txt
+02.10.2026 10:20:16 Read line: DANCE FORWARD 4 from Mission.txt
+02.10.2026 10:20:16 Read line: TURN LEFT 2 from Mission.txt
+02.10.2026 10:20:16 Read line: MOVE STRAIGHT 4 from Mission.txt
+02.10.2026 10:20:16 Read line: REPORT from Mission.txt
+02.10.2026 10:20:16 Read line: FLY UP 3 from Mission.txt
+02.10.2026 10:20:16 Read line: TURN RIGHT 1 from Mission.txt
+02.10.2026 10:20:16 Read line: MOVE STRAIGHT 2 from Mission.txt
+02.10.2026 10:20:16 Read line: REPORT from Mission.txt
+02.10.2026 10:20:16 Read line: TURN LEFT 1 from Mission.txt
+02.10.2026 10:20:16 Read line: MOVE STRAIGHT 5 from Mission.txt
+02.10.2026 10:20:16 Read line: REPORT from Mission.txt
+02.10.2026 10:20:16 Read line: HURR DURR SNURR KNURR from Mission.txt
+02.10.2026 10:34:38 Read line: MOVE STRAIGHT 3 from Mission.txt
+02.10.2026 10:34:38 Read line: TURN RIGHT 1 from Mission.txt
+02.10.2026 10:34:38 Read line: MOVE STRAIGHT 2 from Mission.txt
+02.10.2026 10:34:38 Read line: DANCE FORWARD 4 from Mission.txt
+02.10.2026 10:34:38 Read line: TURN LEFT 2 from Mission.txt
+02.10.2026 10:34:38 Read line: MOVE STRAIGHT 4 from Mission.txt
+02.10.2026 10:34:38 Read line: REPORT from Mission.txt
+02.10.2026 10:34:38 Read line: FLY UP 3 from Mission.txt
+02.10.2026 10:34:38 Read line: TURN RIGHT 1 from Mission.txt
+02.10.2026 10:34:38 Read line: MOVE STRAIGHT 2 from Mission.txt
+02.10.2026 10:34:38 Read line: REPORT from Mission.txt
+02.10.2026 10:34:38 Read line: TURN LEFT 1 from Mission.txt
+02.10.2026 10:34:38 Read line: MOVE STRAIGHT 5 from Mission.txt
+02.10.2026 10:34:38 Read line: REPORT from Mission.txt
+02.10.2026 10:34:38 Read line: HURR DURR SNURR KNURR from Mission.txt
+02.10.2026 10:34:38 [WARNING]: DANCE FORWARD 4 not a valid command
+[INFO]: Validated command: REPORT02.10.2026 10:34:38 [WARNING]: REPORT not a valid command
+02.10.2026 10:34:38 [WARNING]: FLY UP 3 not a valid command
+[INFO]: Validated command: REPORT02.10.2026 10:34:38 [WARNING]: REPORT not a valid command
+[INFO]: Validated command: REPORT02.10.2026 10:34:38 [WARNING]: REPORT not a valid command
+02.10.2026 10:34:38 [WARNING]: HURR DURR SNURR KNURR not a valid command
+02.10.2026 10:37:59 Read line: MOVE STRAIGHT 3 from Mission.txt
+02.10.2026 10:37:59 Read line: TURN RIGHT 1 from Mission.txt
+02.10.2026 10:37:59 Read line: MOVE STRAIGHT 2 from Mission.txt
+02.10.2026 10:37:59 Read line: DANCE FORWARD 4 from Mission.txt
+02.10.2026 10:37:59 Read line: TURN LEFT 2 from Mission.txt
+02.10.2026 10:37:59 Read line: MOVE STRAIGHT 4 from Mission.txt
+02.10.2026 10:37:59 Read line: REPORT from Mission.txt
+02.10.2026 10:37:59 Read line: FLY UP 3 from Mission.txt
+02.10.2026 10:37:59 Read line: TURN RIGHT 1 from Mission.txt
+02.10.2026 10:37:59 Read line: MOVE STRAIGHT 2 from Mission.txt
+02.10.2026 10:37:59 Read line: REPORT from Mission.txt
+02.10.2026 10:37:59 Read line: TURN LEFT 1 from Mission.txt
+02.10.2026 10:37:59 Read line: MOVE STRAIGHT 5 from Mission.txt
+02.10.2026 10:37:59 Read line: REPORT from Mission.txt
+02.10.2026 10:37:59 Read line: HURR DURR SNURR KNURR from Mission.txt
+02.10.2026 10:37:59 [INFO]: Validated: MOVE STRAIGHT 3
+02.10.2026 10:37:59 [INFO]: Validated: TURN RIGHT 1
+02.10.2026 10:37:59 [INFO]: Validated: MOVE STRAIGHT 2
+02.10.2026 10:37:59 [WARNING]: DANCE FORWARD 4 not a valid command
+02.10.2026 10:37:59 [INFO]: Validated: TURN LEFT 2
+02.10.2026 10:37:59 [INFO]: Validated: MOVE STRAIGHT 4
+02.10.2026 10:37:59 [INFO]: Validated command: REPORT02.10.2026 10:37:59 [WARNING]: REPORT not a valid command
+02.10.2026 10:37:59 [WARNING]: FLY UP 3 not a valid command
+02.10.2026 10:37:59 [INFO]: Validated: TURN RIGHT 1
+02.10.2026 10:37:59 [INFO]: Validated: MOVE STRAIGHT 2
+02.10.2026 10:37:59 [INFO]: Validated command: REPORT02.10.2026 10:37:59 [WARNING]: REPORT not a valid command
+02.10.2026 10:37:59 [INFO]: Validated: TURN LEFT 1
+02.10.2026 10:37:59 [INFO]: Validated: MOVE STRAIGHT 5
+02.10.2026 10:37:59 [INFO]: Validated command: REPORT02.10.2026 10:37:59 [WARNING]: REPORT not a valid command
+02.10.2026 10:37:59 [WARNING]: HURR DURR SNURR KNURR not a valid command
+02.10.2026 10:38:51 Read line: MOVE STRAIGHT 3 from Mission.txt
+02.10.2026 10:38:51 Read line: TURN RIGHT 1 from Mission.txt
+02.10.2026 10:38:51 Read line: MOVE STRAIGHT 2 from Mission.txt
+02.10.2026 10:38:51 Read line: DANCE FORWARD 4 from Mission.txt
+02.10.2026 10:38:51 Read line: TURN LEFT 2 from Mission.txt
+02.10.2026 10:38:51 Read line: MOVE STRAIGHT 4 from Mission.txt
+02.10.2026 10:38:51 Read line: REPORT from Mission.txt
+02.10.2026 10:38:51 Read line: FLY UP 3 from Mission.txt
+02.10.2026 10:38:51 Read line: TURN RIGHT 1 from Mission.txt
+02.10.2026 10:38:51 Read line: MOVE STRAIGHT 2 from Mission.txt
+02.10.2026 10:38:51 Read line: REPORT from Mission.txt
+02.10.2026 10:38:51 Read line: TURN LEFT 1 from Mission.txt
+02.10.2026 10:38:51 Read line: MOVE STRAIGHT 5 from Mission.txt
+02.10.2026 10:38:51 Read line: REPORT from Mission.txt
+02.10.2026 10:38:51 Read line: HURR DURR SNURR KNURR from Mission.txt
+02.10.2026 10:38:51 [INFO]: Validated: MOVE STRAIGHT 3
+02.10.2026 10:38:51 [INFO]: Validated: TURN RIGHT 1
+02.10.2026 10:38:51 [INFO]: Validated: MOVE STRAIGHT 2
+02.10.2026 10:38:51 [WARNING]: DANCE FORWARD 4 not a valid command
+02.10.2026 10:38:51 [INFO]: Validated: TURN LEFT 2
+02.10.2026 10:38:51 [INFO]: Validated: MOVE STRAIGHT 4
+02.10.2026 10:38:51 [WARNING]: REPORT not a valid command
+02.10.2026 10:38:51 [WARNING]: FLY UP 3 not a valid command
+02.10.2026 10:38:51 [INFO]: Validated: TURN RIGHT 1
+02.10.2026 10:38:51 [INFO]: Validated: MOVE STRAIGHT 2
+02.10.2026 10:38:51 [WARNING]: REPORT not a valid command
+02.10.2026 10:38:51 [INFO]: Validated: TURN LEFT 1
+02.10.2026 10:38:51 [INFO]: Validated: MOVE STRAIGHT 5
+02.10.2026 10:38:51 [WARNING]: REPORT not a valid command
+02.10.2026 10:38:51 [WARNING]: HURR DURR SNURR KNURR not a valid command
+02.10.2026 10:42:27 Read line: MOVE STRAIGHT 3 from Mission.txt
+02.10.2026 10:42:27 Read line: TURN RIGHT 1 from Mission.txt
+02.10.2026 10:42:27 Read line: MOVE STRAIGHT 2 from Mission.txt
+02.10.2026 10:42:27 Read line: DANCE FORWARD 4 from Mission.txt
+02.10.2026 10:42:27 Read line: TURN LEFT 2 from Mission.txt
+02.10.2026 10:42:27 Read line: MOVE STRAIGHT 4 from Mission.txt
+02.10.2026 10:42:27 Read line: REPORT from Mission.txt
+02.10.2026 10:42:27 Read line: FLY UP 3 from Mission.txt
+02.10.2026 10:42:27 Read line: TURN RIGHT 1 from Mission.txt
+02.10.2026 10:42:27 Read line: MOVE STRAIGHT 2 from Mission.txt
+02.10.2026 10:42:27 Read line: REPORT from Mission.txt
+02.10.2026 10:42:27 Read line: TURN LEFT 1 from Mission.txt
+02.10.2026 10:42:27 Read line: MOVE STRAIGHT 5 from Mission.txt
+02.10.2026 10:42:27 Read line: REPORT from Mission.txt
+02.10.2026 10:42:27 Read line: HURR DURR SNURR KNURR from Mission.txt
+02.10.2026 10:42:27 [INFO]: Validated: DANCE FORWARD 4
+02.10.2026 10:42:27 [INFO]: Validated command: REPORT02.10.2026 10:42:27 [INFO]: Validated: FLY UP 3
+02.10.2026 10:42:27 [INFO]: Validated command: REPORT02.10.2026 10:42:27 [INFO]: Validated command: REPORT02.10.2026 10:42:27 [WARNING]: HURR DURR SNURR KNURR not a valid command
+02.10.2026 10:44:01 Read line: MOVE STRAIGHT 3 from Mission.txt
+02.10.2026 10:44:01 Read line: TURN RIGHT 1 from Mission.txt
+02.10.2026 10:44:01 Read line: MOVE STRAIGHT 2 from Mission.txt
+02.10.2026 10:44:01 Read line: DANCE FORWARD 4 from Mission.txt
+02.10.2026 10:44:01 Read line: TURN LEFT 2 from Mission.txt
+02.10.2026 10:44:01 Read line: MOVE STRAIGHT 4 from Mission.txt
+02.10.2026 10:44:01 Read line: REPORT from Mission.txt
+02.10.2026 10:44:01 Read line: FLY UP 3 from Mission.txt
+02.10.2026 10:44:01 Read line: TURN RIGHT 1 from Mission.txt
+02.10.2026 10:44:01 Read line: MOVE STRAIGHT 2 from Mission.txt
+02.10.2026 10:44:01 Read line: REPORT from Mission.txt
+02.10.2026 10:44:01 Read line: TURN LEFT 1 from Mission.txt
+02.10.2026 10:44:01 Read line: MOVE STRAIGHT 5 from Mission.txt
+02.10.2026 10:44:01 Read line: REPORT from Mission.txt
+02.10.2026 10:44:01 Read line: HURR DURR SNURR KNURR from Mission.txt
+02.10.2026 10:44:01 [INFO]: Validated: MOVE STRAIGHT 3
+02.10.2026 10:44:01 [INFO]: Validated: TURN RIGHT 1
+02.10.2026 10:44:01 [INFO]: Validated: MOVE STRAIGHT 2
+02.10.2026 10:44:01 [WARNING]: DANCE FORWARD 4 not a valid command
+02.10.2026 10:44:01 [INFO]: Validated: TURN LEFT 2
+02.10.2026 10:44:01 [INFO]: Validated: MOVE STRAIGHT 4
+[INFO]: Validated command: REPORT02.10.2026 10:44:01 [WARNING]: FLY UP 3 not a valid command
+02.10.2026 10:44:01 [INFO]: Validated: TURN RIGHT 1
+02.10.2026 10:44:01 [INFO]: Validated: MOVE STRAIGHT 2
+[INFO]: Validated command: REPORT02.10.2026 10:44:01 [INFO]: Validated: TURN LEFT 1
+02.10.2026 10:44:01 [INFO]: Validated: MOVE STRAIGHT 5
+[INFO]: Validated command: REPORT02.10.2026 10:44:01 [WARNING]: HURR DURR SNURR KNURR not a valid command
+02.10.2026 10:44:42 Read line: MOVE STRAIGHT 3 from Mission.txt
+02.10.2026 10:44:42 Read line: TURN RIGHT 1 from Mission.txt
+02.10.2026 10:44:42 Read line: MOVE STRAIGHT 2 from Mission.txt
+02.10.2026 10:44:42 Read line: DANCE FORWARD 4 from Mission.txt
+02.10.2026 10:44:42 Read line: TURN LEFT 2 from Mission.txt
+02.10.2026 10:44:42 Read line: MOVE STRAIGHT 4 from Mission.txt
+02.10.2026 10:44:42 Read line: REPORT from Mission.txt
+02.10.2026 10:44:42 Read line: FLY UP 3 from Mission.txt
+02.10.2026 10:44:42 Read line: TURN RIGHT 1 from Mission.txt
+02.10.2026 10:44:42 Read line: MOVE STRAIGHT 2 from Mission.txt
+02.10.2026 10:44:42 Read line: REPORT from Mission.txt
+02.10.2026 10:44:42 Read line: TURN LEFT 1 from Mission.txt
+02.10.2026 10:44:42 Read line: MOVE STRAIGHT 5 from Mission.txt
+02.10.2026 10:44:42 Read line: REPORT from Mission.txt
+02.10.2026 10:44:42 Read line: HURR DURR SNURR KNURR from Mission.txt
+02.10.2026 10:44:42 [INFO]: Validated: MOVE STRAIGHT 3
+02.10.2026 10:44:42 [INFO]: Validated: TURN RIGHT 1
+02.10.2026 10:44:42 [INFO]: Validated: MOVE STRAIGHT 2
+02.10.2026 10:44:42 [WARNING]: DANCE FORWARD 4 not a valid command
+02.10.2026 10:44:42 [INFO]: Validated: TURN LEFT 2
+02.10.2026 10:44:42 [INFO]: Validated: MOVE STRAIGHT 4
+[INFO]: Validated command: REPORT 
+02.10.2026 10:44:42 [WARNING]: FLY UP 3 not a valid command
+02.10.2026 10:44:42 [INFO]: Validated: TURN RIGHT 1
+02.10.2026 10:44:42 [INFO]: Validated: MOVE STRAIGHT 2
+[INFO]: Validated command: REPORT 
+02.10.2026 10:44:42 [INFO]: Validated: TURN LEFT 1
+02.10.2026 10:44:42 [INFO]: Validated: MOVE STRAIGHT 5
+[INFO]: Validated command: REPORT 
+02.10.2026 10:44:42 [WARNING]: HURR DURR SNURR KNURR not a valid command
+02.10.2026 10:45:17 Read line: MOVE STRAIGHT 3 from Mission.txt
+02.10.2026 10:45:17 Read line: TURN RIGHT 1 from Mission.txt
+02.10.2026 10:45:17 Read line: MOVE STRAIGHT 2 from Mission.txt
+02.10.2026 10:45:17 Read line: DANCE FORWARD 4 from Mission.txt
+02.10.2026 10:45:17 Read line: TURN LEFT 2 from Mission.txt
+02.10.2026 10:45:17 Read line: MOVE STRAIGHT 4 from Mission.txt
+02.10.2026 10:45:17 Read line: REPORT from Mission.txt
+02.10.2026 10:45:17 Read line: FLY UP 3 from Mission.txt
+02.10.2026 10:45:17 Read line: TURN RIGHT 1 from Mission.txt
+02.10.2026 10:45:17 Read line: MOVE STRAIGHT 2 from Mission.txt
+02.10.2026 10:45:17 Read line: REPORT from Mission.txt
+02.10.2026 10:45:17 Read line: TURN LEFT 1 from Mission.txt
+02.10.2026 10:45:17 Read line: MOVE STRAIGHT 5 from Mission.txt
+02.10.2026 10:45:17 Read line: REPORT from Mission.txt
+02.10.2026 10:45:17 Read line: HURR DURR SNURR KNURR from Mission.txt
+02.10.2026 10:45:17 [INFO]: Validated: MOVE STRAIGHT 3
+02.10.2026 10:45:17 [INFO]: Validated: TURN RIGHT 1
+02.10.2026 10:45:17 [INFO]: Validated: MOVE STRAIGHT 2
+02.10.2026 10:45:17 [WARNING]: DANCE FORWARD 4 not a valid command
+02.10.2026 10:45:17 [INFO]: Validated: TURN LEFT 2
+02.10.2026 10:45:17 [INFO]: Validated: MOVE STRAIGHT 4
+02.10.2026 10:45:17[INFO]: Validated command: REPORT 
+02.10.2026 10:45:17 [WARNING]: FLY UP 3 not a valid command
+02.10.2026 10:45:17 [INFO]: Validated: TURN RIGHT 1
+02.10.2026 10:45:17 [INFO]: Validated: MOVE STRAIGHT 2
+02.10.2026 10:45:17[INFO]: Validated command: REPORT 
+02.10.2026 10:45:17 [INFO]: Validated: TURN LEFT 1
+02.10.2026 10:45:17 [INFO]: Validated: MOVE STRAIGHT 5
+02.10.2026 10:45:17[INFO]: Validated command: REPORT 
+02.10.2026 10:45:17 [WARNING]: HURR DURR SNURR KNURR not a valid command
+02.10.2026 10:48:33 [INFO] Read line: MOVE STRAIGHT 3 from Mission.txt
+02.10.2026 10:48:33 [INFO] Read line: TURN RIGHT 1 from Mission.txt
+02.10.2026 10:48:33 [INFO] Read line: MOVE STRAIGHT 2 from Mission.txt
+02.10.2026 10:48:33 [INFO] Read line: DANCE FORWARD 4 from Mission.txt
+02.10.2026 10:48:33 [INFO] Read line: TURN LEFT 2 from Mission.txt
+02.10.2026 10:48:33 [INFO] Read line: MOVE STRAIGHT 4 from Mission.txt
+02.10.2026 10:48:33 [INFO] Read line: REPORT from Mission.txt
+02.10.2026 10:48:33 [INFO] Read line: FLY UP 3 from Mission.txt
+02.10.2026 10:48:33 [INFO] Read line: TURN RIGHT 1 from Mission.txt
+02.10.2026 10:48:33 [INFO] Read line: MOVE STRAIGHT 2 from Mission.txt
+02.10.2026 10:48:33 [INFO] Read line: REPORT from Mission.txt
+02.10.2026 10:48:33 [INFO] Read line: TURN LEFT 1 from Mission.txt
+02.10.2026 10:48:33 [INFO] Read line: MOVE STRAIGHT 5 from Mission.txt
+02.10.2026 10:48:33 [INFO] Read line: REPORT from Mission.txt
+02.10.2026 10:48:33 [INFO] Read line: HURR DURR SNURR KNURR from Mission.txt
+02.10.2026 10:48:33 [INFO]: Validated: MOVE STRAIGHT 3
+02.10.2026 10:48:33 [INFO]: Validated: TURN RIGHT 1
+02.10.2026 10:48:33 [INFO]: Validated: MOVE STRAIGHT 2
+02.10.2026 10:48:33 [WARNING]: DANCE FORWARD 4 not a valid command
+02.10.2026 10:48:33 [INFO]: Validated: TURN LEFT 2
+02.10.2026 10:48:33 [INFO]: Validated: MOVE STRAIGHT 4
+02.10.2026 10:48:33 [INFO]: Validated command: REPORT 
+02.10.2026 10:48:33 [WARNING]: FLY UP 3 not a valid command
+02.10.2026 10:48:33 [INFO]: Validated: TURN RIGHT 1
+02.10.2026 10:48:33 [INFO]: Validated: MOVE STRAIGHT 2
+02.10.2026 10:48:33 [INFO]: Validated command: REPORT 
+02.10.2026 10:48:33 [INFO]: Validated: TURN LEFT 1
+02.10.2026 10:48:33 [INFO]: Validated: MOVE STRAIGHT 5
+02.10.2026 10:48:33 [INFO]: Validated command: REPORT 
+02.10.2026 10:48:33 [WARNING]: HURR DURR SNURR KNURR not a valid command

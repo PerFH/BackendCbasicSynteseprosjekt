@@ -29,6 +29,11 @@ public class GetCommands
             foreach (string line in File.ReadAllLines(getFile()))
             {
                 readCommands.Add(line);
+                var logLine = $"{DateTime.Now} [INFO] Read line: {line} from {getFile()}";
+                File.AppendAllText("mission-report.txt", logLine + "\n");
+                {
+                    
+                } 
             }
         }
     }

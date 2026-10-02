@@ -32,8 +32,10 @@ public class CommandValidation
             validatedCommand.commandDirection = "REPORT";
             validatedCommand.commandStrength = 0;
             validatedCommands.Add(validatedCommand);
+            File.AppendAllText("mission-report.txt", $"{DateTime.Now} [INFO]: Validated command: REPORT \n");
+            
         }
-        if (details.Length > 2 && validParts.Contains(details[0]) && validParts.Contains(details[1]))
+        else if (details.Length > 2 && validParts.Contains(details[0]) && validParts.Contains(details[1]))
         {
             validatedCommand.commandType = details[0];
             validatedCommand.commandDirection = details[1];
@@ -43,11 +45,15 @@ public class CommandValidation
 
                 validatedCommand.commandStrength = number;
                 validatedCommands.Add(validatedCommand);
+                 string logLine = $"{DateTime.Now} [INFO]: Validated: {command}";
+                 File.AppendAllText("mission-report.txt", logLine + "\n");
+
             }
         }
         else
         {
-            Console.WriteLine($"Error: {command} not a valid command");
+            string logLine = $"{DateTime.Now} [WARNING]: {command} not a valid command";
+            File.AppendAllText("mission-report.txt", logLine + "\n");
             //logError()
         }
     }
